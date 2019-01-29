@@ -9,6 +9,8 @@ This project is worth 12% of your grade in CTEC 127
 - The content of the first page will contain the instructions on how to control the page content using **URL query string parameters**.
 - The second page will be the page that uses the query string parameters to render dynamic content on the page.
 - You are to provide 7 different parameters and values that a user can enter to render different items on the page such as text, images, CSS styles, etc. Use your creativity here. This project will help you learn and understand how powerful query strings are.
+- CSS goes in the CSS folder.
+- Create an img folder to store any images in.
 - Once you are done with your project you are to use Visual Studio Code to push all of your files to GitHub.
 - The step above will be covered in class on Wednesday, January 30, 2019.
 
